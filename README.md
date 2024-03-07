@@ -1,5 +1,5 @@
 ### Bem vindo, me chamo Libni Evanio sou desenvolvedor de software apaixonado por tecnologia.
-<br></br>
+#
 - 🔭 Hoje estou trabalhando em projetos back-end e no meu portifólio
 - 🌱 Estudando banco de dados SLQ
 
