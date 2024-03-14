@@ -1,4 +1,4 @@
-### Bem vindo, me chamo Libni Evanio sou desenvolvedor de software apaixonado por tecnologia.
+### Bem vindo!!, me chamo Libni Evanio sou desenvolvedor de software apaixonado por tecnologia.
 #
 - 🔭 Hoje estou trabalhando em projetos back-end e no meu portifólio
 - 🌱 Estudando banco de dados SLQ
